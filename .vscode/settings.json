@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "*.pl": "prolog",
+    "*.bdl": "bdl",
+    "*.shader": "glsl",
+    "iostream": "cpp",
+    "istream": "cpp",
+    "string": "cpp",
+    "fstream": "cpp",
+    "xstring": "cpp",
+    "ostream": "cpp"
+  }
+}
